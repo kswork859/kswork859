@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kswork859](https://github.com/kswork859)
 
-- 📝 I regularly write articles on [codewithkhurram.blogspot.com](codewithkhurram.blogspot.com)
+- 📝 I regularly write articles on [codewithkhurram.blogspot.com](https://codewithkhurram.blogspot.com)
 
 - 💬 Ask me about *Ms Office,Inpage, Internet of Things and Data Coding, Problem Solving and Programming, Object Oriented Programming, Data Structure and Algorithms, Analysis and Design of Algorithms,Software Construction*
 
